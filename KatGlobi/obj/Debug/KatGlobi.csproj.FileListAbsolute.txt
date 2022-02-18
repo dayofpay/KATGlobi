@@ -1,0 +1,7 @@
+C:\Users\dayofpay\source\repos\KatGlobi\KatGlobi\bin\Debug\KatGlobi.exe.config
+C:\Users\dayofpay\source\repos\KatGlobi\KatGlobi\bin\Debug\KatGlobi.exe
+C:\Users\dayofpay\source\repos\KatGlobi\KatGlobi\bin\Debug\KatGlobi.pdb
+C:\Users\dayofpay\source\repos\KatGlobi\KatGlobi\obj\Debug\KatGlobi.csprojAssemblyReference.cache
+C:\Users\dayofpay\source\repos\KatGlobi\KatGlobi\obj\Debug\KatGlobi.csproj.CoreCompileInputs.cache
+C:\Users\dayofpay\source\repos\KatGlobi\KatGlobi\obj\Debug\KatGlobi.exe
+C:\Users\dayofpay\source\repos\KatGlobi\KatGlobi\obj\Debug\KatGlobi.pdb
