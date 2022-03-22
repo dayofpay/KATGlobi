@@ -81,12 +81,12 @@ namespace KatGlobi
                     }
                     else if (Math.Abs(mySpeed - speedLimit) >= 50 && Math.Abs(mySpeed - speedLimit) <= 54)
                     {
-                        Console.WriteLine($"Превишили сте скороста с {Math.Abs(mySpeed - speedLimit)} КМ, което се равнява на 700 ЛВ Глоба !");
+                        Console.WriteLine($"Превишили сте скороста с {Math.Abs(mySpeed - speedLimit)} КМ, което се равнява на 700 ЛВ Глоба  +  три месеца лишаване от право да управлява моторно превозно средство!");
                     }
                     else if (Math.Abs(mySpeed - speedLimit) >= 54)
                     {
                         var n = (mySpeed - speedLimit - 50) / 5; // N > ( Моята скорост - Ограничение ) - Ограничение разделено на 5 > По този начин получаваме степента на остатъка от изваждането на скороста
-                        Console.WriteLine($"Превишили сте скороста с {(Math.Abs(mySpeed - speedLimit))} КМ, което се равнява на {n * 50 + 700} ЛВ Глоба !");
+                        Console.WriteLine($"Превишили сте скороста с {(Math.Abs(mySpeed - speedLimit))} КМ, което се равнява на {n * 50 + 700} ЛВ Глоба +  три месеца лишаване от право да управлява моторно превозно средство !");
 
                     }
                     Console.ForegroundColor = ConsoleColor.Green;
@@ -131,12 +131,12 @@ namespace KatGlobi
                     }
                     else if (Math.Abs(speedLimit - mySpeed) >= 50 && Math.Abs(speedLimit - mySpeed) <= 54)
                     {
-                        Console.WriteLine($"Превишили сте скороста с {Math.Abs(speedLimit - mySpeed)} КМ, което се равнява на 600 ЛВ Глоба !");
+                        Console.WriteLine($"Превишили сте скороста с {Math.Abs(speedLimit - mySpeed)} КМ, което се равнява на 600 ЛВ Глоба  +  три месеца лишаване от право да управлява моторно превозно средство!");
                     }
                     else if (Math.Abs(speedLimit - mySpeed) >= 54)
                     {
                         var n = (mySpeed - speedLimit - 50) / 5; // N > ( Моята скорост - Ограничение ) - Ограничение разделено на 5 > По този начин получаваме степента на остатъка от изваждането на скороста
-                        Console.WriteLine($"Превишили сте скороста с {(Math.Abs(speedLimit - mySpeed))} КМ, което се равнява на {n * 50 + 700} ЛВ Глоба !");
+                        Console.WriteLine($"Превишили сте скороста с {(Math.Abs(speedLimit - mySpeed))} КМ, което се равнява на {n * 50 + 700} ЛВ Глоба +  три месеца лишаване от право да управлява моторно превозно средство!");
 
                     }
                     Console.ForegroundColor = ConsoleColor.Green;
